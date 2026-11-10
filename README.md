@@ -1,8 +1,8 @@
 # Ludens Archive
 
-Central repository of lecture notes, essays and monographs in Mathematics and Theoretical Physics pertaining to the chronicle *The Ludens Topoï*.
+Central repository of lecture notes, essays and monographs in Philosophy, Mathematics and Theoretical Physics pertaining to the chronicle *The Ludens Topoï*.
 
-This archive is intended for the static preservation of the final compiled editions (PDFs), serving as a formal and rigorous reference for the conceptual deliberations promulgated within the chronicle.
+This archive is intended for the static preservation of the final compiled editions (PDFs), serving as a formal and complete reference for the conceptual deliberations promulgated within the blog.
 
 ## Índice de Documentos
 
