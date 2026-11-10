@@ -1,14 +1,15 @@
-<div align="center">
-<pre>
-    ____________________________________________________________________
-   /                                                                    \
-  |    I B M   S Y S T E M  /  T H E   L U D E N S   T O P O Ï          |
-   \____________________________________________________________________/
-</pre>
-</div>
+# Ludens Archive
+
+Central repository of lecture notes, essays and monographs in Mathematics and Theoretical Physics pertaining to the chronicle *The Ludens Topoï*.
+
+This archive is intended for the static preservation of the final compiled editions (PDFs), serving as a formal and rigorous reference for the conceptual deliberations promulgated within the chronicle.
+
+## Índice de Documentos
 
 ```text
-USER: gustavo               HOST: tty1 (cachyos-linux)
-TYPE: ARCHIVE_NODE          UPTIME: 99.9%
-ROOT: /ludens-topoi/pdfs    MODE: STRICTLY READ-ONLY
-DESC: Formal structures, categorical logic, and theoretical physics.
+.
+├── 01_geometry/
+├── 02_physics/
+├── 03_foundations/
+├── 04_philosophy/
+└── 05_gamestudies/
